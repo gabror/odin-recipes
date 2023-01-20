@@ -1,2 +1,2 @@
 # odin-recipes
-basic recipe website
+basic recipe website with html for the odin project curriculum
